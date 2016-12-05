@@ -1,2 +1,2 @@
 # HelloWorld
-aNewJourney
+aNewJourneyIntoTheWorldOfProgramming
